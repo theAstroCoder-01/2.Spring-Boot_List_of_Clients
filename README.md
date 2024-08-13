@@ -1,5 +1,22 @@
 # 2.Spring-Boot_List_of_Clients
 
+Description:
+- This is my third Spring Boot project made in IntelliJ IDEA with Java, Thymeleaf, and MySQL.
+- The web service displays a welcome title followed my contact on GitHub and a list of clients.
+- In 'Clients' we can add, edit or delete clients to our convenience, checking the data of everyone of them stored in MySQL.
+
+Resources:
+- IntelliJ IDEA Community Edition 2024.1.1
+- SPRING Initializr
+- MySQL
+- Thymeleaf
+
+Dependencies:
+- SpringWeb
+- Thymeleaf
+- Validation
+- MySQL Driver
+- Spring Data JPA
 
 
 
